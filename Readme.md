@@ -1,6 +1,5 @@
 # Twitch Bot v2
 
-![Twitch Bot Logo](link-to-your-logo.png)
 
 <p align="center">
   <em>Your Ultimate Twitch Botting</em>
